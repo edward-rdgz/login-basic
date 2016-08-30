@@ -1,0 +1,15 @@
+#txtNombre, #txtUsuario, #txtCorreo, #txtContrasena  {
+	border-radius:5px;
+	border-color:#10e921;
+}
+
+#btnGuardar, #btnSesion {
+	box-shadow:1px 1px 3px #000000;
+	background:#aab19e;
+}
+
+#lienzo {
+	position:absolute;
+	right:22%;
+	top:340px; 
+}
